@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aman Jaiswal! 👋
 
-<!--
-**aman-jaiswal-ai/aman-jaiswal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI/ML Developer | Delhi, India
 
-Here are some ideas to get you started:
+I build GenAI applications using Python, FastAPI, and LangChain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **Frameworks:** FastAPI, LangChain
+- **AI/ML:** LLMs, RAG, Vector Databases, FAISS
+- **Tools:** Git, GitHub, VS Code
+
+## 🔥 Projects
+- **PDF Chatbot API** — Upload any PDF and chat with it using AI
+  - FastAPI + LangChain + FAISS + Groq LLM
+
+## 📫 Connect with me
+- LinkedIn: [Aman Jaiswal](https://www.linkedin.com/in/aman-jaiswal)
+
+## 💡 Currently
+- Building GenAI applications
+- Open to AI/ML Developer opportunities
