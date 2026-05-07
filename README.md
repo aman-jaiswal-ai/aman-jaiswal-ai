@@ -9,7 +9,7 @@ Passionate about building AI-powered backend systems and real-world machine lear
 # 💻 Tech Stack
 
 - **Languages:** Python, SQL
-- **Frameworks & Libraries:** FastAPI, LangChain, Scikit-learn, Pandas, NumPy
+- **Frameworks & Libraries:** FastAPI, LangChain, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit
 - **AI/ML:** Machine Learning, LLMs, RAG, FAISS, Prompt Engineering
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
@@ -34,7 +34,7 @@ https://github.com/aman-jaiswal-ai/ai-customer-segmentation-engine
 ---
 
 ## 🏦 AI Loan Approval Prediction System
-ML-based loan approval prediction system that analyses applicant financial and credit data to predict loan approval decisions.
+ML-based loan approval prediction system using applicant financial, employment, and credit data to automate approval analysis.
 
 🔗 Project Link:  
 https://github.com/aman-jaiswal-ai/ai-loan-approval-prediction-system
